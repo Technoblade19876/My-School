@@ -1,16 +1,11 @@
-#contact iframe
-{
+.campus{
+    border: 1px solid black;
+}
+
+.campus img{
     width: 100%;
 }
 
-.travel_mainDiv img{ 
-width: 100%;
-}
-
-.travel_mainDiv h5 , .travel_mainDiv p{
-    margin:20px ;
-}
-
-.travel_mainDiv{
-    border: 1px solid black ;
+.campus h5 , .campus p{
+    margin: 20px;
 }
